@@ -18,20 +18,5 @@ A simple number guessing game built with HTML, CSS, and JavaScript.
 - **CSS** - Styling and layout.
 - **JavaScript** - Game logic and interactivity.
 
-## 📂 Project Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/guess-my-number.git
-   ```
-2. Open the `index.html` file in your browser.
-3. Start playing!
-
-## 🚀 Live Demo
-You can play the game live here: [Demo Link](#)
-
-## 📜 License
-This project is open-source and free to use.
-
----
 Made with ❤️ by Azeem
 
